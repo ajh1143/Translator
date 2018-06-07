@@ -48,3 +48,8 @@ if __name__ = "__main__":
     language = 'fr'
     a.translator(goslate, sentence, language)
 ```
+#### Output: English to French ('fr')
+
+```
+Bonjour le monde! Comment vous sentez-vous aujourd'hui?
+```
