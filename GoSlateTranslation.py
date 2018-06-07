@@ -1,5 +1,4 @@
 import goslate
-import pandas as pd
 
 class Translation():
 
